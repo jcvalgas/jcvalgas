@@ -1,6 +1,6 @@
 
-<div>
-    <img style="display: block;margin: 0 auto;" height="300px" src="hello.png" alt="pixel presentation">
+<div style="text-align: center">
+    <img style="display: block;" height="300px" src="hello.png" alt="pixel presentation">
 </div>
 
 <br />
